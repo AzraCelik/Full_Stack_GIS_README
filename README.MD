@@ -269,10 +269,6 @@ This project uses Supabase (PostgreSQL + PostGIS) combining both approaches:
 - View logs: `docker logs <container-id>`
 - Verify port 8080 available
 
-## License
+Saadet Azra Çelik
 
-MIT License
 
----
-
-**Note:** Educational project for GMT 458. Additional security measures needed for production.
