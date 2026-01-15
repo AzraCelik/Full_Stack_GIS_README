@@ -269,6 +269,8 @@ This project uses Supabase (PostgreSQL + PostGIS) combining both approaches:
 - View logs: `docker logs <container-id>`
 - Verify port 8080 available
 
+https://main.d38os5sue4vwnr.amplifyapp.com/
+
 Saadet Azra Çelik
 
 
